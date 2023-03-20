@@ -1,4 +1,6 @@
 # PrimeNumberCount
+This has 3 packages batching, sequential and fair.
+
 Java Multithreaded Code to count Total Prime Numbers till 100M. This Experiment WAS Done using 10 Threads.
 
 Sequential Processing
